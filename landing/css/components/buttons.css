@@ -1,0 +1,8 @@
+.btn-join{
+  background-color: white;
+  color: red;
+  font-size: 20px ;
+  border-radius: 30%;
+  position: absolute;
+  left: 60px;
+}
